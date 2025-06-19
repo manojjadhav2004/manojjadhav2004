@@ -2,7 +2,7 @@
 
 🌱 2nd-year Computer Engineering Student  
 💡 Building cool projects using PHP, MySQL, C++, and more  
-⚙️ Focused on real-world solutions like my [Labour & Farmer Management System](https://github.com/YOUR_USERNAME/labour-farmer-system)  
+⚙️ Focused on real-world solutions like my [Labour & Farmer Management System](https://github.com/manojjadhav2004/farmer-labour-project)  
 🎯 Currently learning: Machine Learning & Cybersecurity  
 🧠 CGPA: 7.9 (and going up 📈)  
 
