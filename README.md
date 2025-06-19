@@ -20,7 +20,7 @@
 
 ### 🌾 Labour & Farmer Management System
 > A web portal to connect farmers and labourers with job posting, scheduling, and wage tracking  
-🔗 [View on GitHub](https://github.com/manojjadhav2004/labour-farmer-system)
+🔗 [View on GitHub](https://github.com/manojjadhav2004/farmer-labour-project)  
 
 ---
 
